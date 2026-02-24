@@ -110,7 +110,6 @@ cp -r core/core/app/* /ruta/a/infoapp/core/app/
 - Vistas Admin: 8
 - Vistas Usuario: 6
 - Versión: 1.0
-- Fecha: Febrero 2026
 
 ## 📄 Licencia
 
