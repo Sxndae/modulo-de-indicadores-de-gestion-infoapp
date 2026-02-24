@@ -112,10 +112,6 @@ cp -r core/core/app/* /ruta/a/infoapp/core/app/
 - Versión: 1.0
 - Fecha: Febrero 2026
 
-## 📞 Soporte
-
-Para reportar problemas o sugerencias, por favor crear un issue en el repositorio.
-
 ## 📄 Licencia
 
 Este módulo es parte del proyecto InfoApp.
